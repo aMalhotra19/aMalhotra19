@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aMalhotra19
 - 👀 I’m interested in SwiftUI, Combine, Swift, Objective C, building iOS applications
 - 🌱 I’m currently learning and improving SwiftUI, Combine and sometimes solve challenges on Leetcode.
-- 💞️ I’m looking to collaborate on iOS Development
+- 💞️ I’m looking to collaborate on iOS Development, improve my skills and create hands-on projects
 - 📫 How to reach me anjumalhotra1989@gmail.com
 
 <!---
